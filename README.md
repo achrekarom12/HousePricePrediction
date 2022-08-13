@@ -40,7 +40,7 @@ df_for_model_3 -> Dropped location column because we already have one hot encodi
   <li> Outlier Detection </li>
   <li> One hot encoding </li>
   <li> Dummy Variables & Dummy variable trap</li>
-  <li> K-fold Corss validation </li>
+  <li> K-fold Cross validation </li>
   <li> Comparative analysis between different regression models </li>
 </ol>
 
@@ -51,7 +51,7 @@ df_for_model_3 -> Dropped location column because we already have one hot encodi
   <li> [Dimensionality Curse problem ](https://www.youtube.com/watch?v=QZ0DtNFdDko)</li>
   <li> [Outlier Analysis](https://www.youtube.com/watch?v=7sJaRHF03K8) </li>
   <li> [One hot encoding](https://youtu.be/9yl6-HEY7_s) </li>
-  <li> [K-fold Corss validation](https://youtu.be/gJo0uNL-5Qw) </li>
+  <li> [K-fold Cross validation](https://youtu.be/gJo0uNL-5Qw) </li>
   <li> [Different regression models ](https://youtu.be/E5RjzSK0fvY)</li>
 </ol>
 
